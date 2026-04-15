@@ -8,4 +8,4 @@ texto normal
 [p5js](http://p5js.org)
 ![una imagen](https://i.ebayimg.com/images/g/N6wAAOSwxeBmtVNF/s-l1600.webp)
 
-![IMAGEN](IMAGENES/HOPPER.JPG)
+![IMAGEN](IMAGENES/HOPPER.jpg)
