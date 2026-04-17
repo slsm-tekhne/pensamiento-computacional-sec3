@@ -3,7 +3,7 @@
 
 texto normal
 *texto cursiva*
-** texto en negrita**
+**texto en negrita**
 
 [p5js](http://p5js.org)
 ![una imagen](https://i.ebayimg.com/images/g/N6wAAOSwxeBmtVNF/s-l1600.webp)
